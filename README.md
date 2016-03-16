@@ -1,3 +1,3 @@
 # hello-world
 testing
-Testing this software to program with C
+Testing this software to program on C
